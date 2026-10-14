@@ -1,2 +1,2 @@
 # -google-play-store-
-.نمونه ای از تحلیل دادها در کسب و کار ها و پلتفرم های حوزه سرگرمی میباشد pandas و numpy و matplotlib  تحلیل آماری این دیتاست ها با   
+Statistical analysis of these datasets using pandas, NumPy, and matplotlib serves as an example of data analysis within businesses and entertainment platforms.
